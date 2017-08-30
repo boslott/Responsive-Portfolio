@@ -224,6 +224,8 @@ body {
     padding: 0 10px;
     font-size: 14px;
     border: 1px solid #ddd;
+    background-color: #4aaaa5;
+    color: #fff;
   }
 
   textarea {
